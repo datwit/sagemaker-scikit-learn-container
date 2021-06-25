@@ -19,6 +19,11 @@ For information on running Scikit-learn jobs on SageMaker: `SageMaker SKLearn Es
 For notebook examples: `SageMaker Notebook
 Examples <https://github.com/awslabs/amazon-sagemaker-examples>`__.
 
+Datwit
+------
+
+This is our own versión of this container, including `spacy`, `gensim` and `nltk`
+
 Table of Contents
 -----------------
 
